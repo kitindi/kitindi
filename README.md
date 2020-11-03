@@ -16,7 +16,7 @@
 
 
 
-- 💻 &nbsp; PHP | MySQL 
+- 💻 &nbsp; PHP | MySQL | REST API | CI / CD
 
 - 🌐 &nbsp; HTML5 | CSS3 & SASS | JavaScript | Bootstrap | ReactJS
 
